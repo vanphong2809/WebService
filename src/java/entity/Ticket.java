@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package entity;
 
-/**
- *
- * @author MyPC
- */
 public class Ticket {
 
     private String ticketId;
@@ -71,4 +62,5 @@ public class Ticket {
     public void setTicketPrice(Integer ticketPrice) {
         this.ticketPrice = ticketPrice;
     }
+
 }

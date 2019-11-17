@@ -14,26 +14,15 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Moviepoint - Online Movie,Vedio and TV Show HTML Template</title>
-		<!-- Favicon Icon -->
-		<link rel="icon" type="image/png" href="../jsp/image/favcion.png" />
-		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/bootstrap.min.css" media="all" />
-		<!-- Slick nav CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/slicknav.min.css" media="all" />
-		<!-- Iconfont CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/icofont.css" media="all" />
-		<!-- Owl carousel CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/owl.carousel.css">
-		<!-- Popup CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/magnific-popup.css">
-		<!-- Main style CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/style.css" media="all" />
-		<!-- Responsive CSS -->
-		<link rel="stylesheet" type="text/css" href="../jsp/css/responsive.css" media="all" />
-		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
+		<link rel="icon" type="image/png" href="/WebService/jsp/image/favcion.png" />
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/bootstrap.min.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/slicknav.min.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/icofont.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/magnific-popup.css">
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/style.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="/WebService/jsp/css/responsive.css" media="all" />
+
 	</head>
 	<body>
 		<!-- Page loader -->
@@ -43,7 +32,7 @@
 			<div class="container">
 				<div class="header-area">
 					<div class="logo">
-						<a href="index.html"><img src="../jsp/image/logo.png" alt="logo" /></a>
+						<a href="index.html"><img src="/WebService/jsp/image/logo.png" alt="logo" /></a>
 					</div>
 					<div class="header-right">
 						<form action="#">
@@ -348,7 +337,7 @@
 					<div class="row hero-area-slide">
 						<div class="col-lg-6 col-md-5">
 							<div class="hero-area-content">
-								<img src="../jsp/image/slide2.png" alt="about" />
+								<img src="/WebService/jsp/image/slide2.png" alt="about" />
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-7">
@@ -359,25 +348,25 @@
 								<h3>Cast:</h3>
 								<div class="slide-cast">
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast1.png" alt="about" />
+										<img src="/WebService/jsp/image/cast1.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast2.png" alt="about" />
+										<img src="/WebService/jsp/image/cast2.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast3.png" alt="about" />
+										<img src="/WebService/jsp/image/cast3.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast4.png" alt="about" />
+										<img src="/WebService/jsp/image/cast4.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast5.png" alt="about" />
+										<img src="/WebService/jsp/image/cast5.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast6.png" alt="about" />
+										<img src="/WebService/jsp/image/cast6.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast7.png" alt="about" />
+										<img src="/WebService/jsp/image/cast7.png" alt="about" />
 									</div>
 									<div class="single-slide-cast text-center">
 										5+
@@ -404,25 +393,25 @@
 								<h3>Cast:</h3>
 								<div class="slide-cast">
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast1.png" alt="about" />
+										<img src="/WebService/jsp/image/cast1.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast2.png" alt="about" />
+										<img src="/WebService/jsp/image/cast2.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast3.png" alt="about" />
+										<img src="/WebService/jsp/image/cast3.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast4.png" alt="about" />
+										<img src="/WebService/jsp/image/cast4.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast5.png" alt="about" />
+										<img src="/WebService/jsp/image/cast5.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast6.png" alt="about" />
+										<img src="/WebService/jsp/image/cast6.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast7.png" alt="about" />
+										<img src="/WebService/jsp/image/cast7.png" alt="about" />
 									</div>
 									<div class="single-slide-cast text-center">
 										5+
@@ -438,7 +427,7 @@
 					<div class="row hero-area-slide">
 						<div class="col-lg-6 col-md-5">
 							<div class="hero-area-content">
-								<img src="../jsp/image/slide3.png" alt="about" />
+								<img src="/WebService/jsp/image/slide3.png" alt="about" />
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-7">
@@ -449,25 +438,25 @@
 								<h3>Cast:</h3>
 								<div class="slide-cast">
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast1.png" alt="about" />
+										<img src="/WebService/jsp/image/cast1.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast2.png" alt="about" />
+										<img src="/WebService/jsp/image/cast2.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast3.png" alt="about" />
+										<img src="/WebService/jsp/image/cast3.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast4.png" alt="about" />
+										<img src="/WebService/jsp/image/cast4.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast5.png" alt="about" />
+										<img src="/WebService/jsp/image/cast5.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast6.png" alt="about" />
+										<img src="/WebService/jsp/image/cast6.png" alt="about" />
 									</div>
 									<div class="single-slide-cast">
-										<img src="../jsp/image/cast7.png" alt="about" />
+										<img src="/WebService/jsp/image/cast7.png" alt="about" />
 									</div>
 									<div class="single-slide-cast text-center">
 										5+
@@ -486,7 +475,7 @@
 						<div class="row hero-area-slide">
 							<div class="col-lg-6">
 								<div class="hero-area-content">
-									<img src="../jsp/image/slide3.png" alt="about" />
+									<img src="/WebService/jsp/image/slide3.png" alt="about" />
 								</div>
 							</div>
 							<div class="col-lg-6">
@@ -496,25 +485,25 @@
 									<h3>Cast:</h3>
 									<div class="slide-cast">
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast1.png" alt="about" />
+											<img src="/WebService/jsp/image/cast1.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast2.png" alt="about" />
+											<img src="/WebService/jsp/image/cast2.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast3.png" alt="about" />
+											<img src="/WebService/jsp/image/cast3.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast4.png" alt="about" />
+											<img src="/WebService/jsp/image/cast4.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast5.png" alt="about" />
+											<img src="/WebService/jsp/image/cast5.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast6.png" alt="about" />
+											<img src="/WebService/jsp/image/cast6.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast7.png" alt="about" />
+											<img src="/WebService/jsp/image/cast7.png" alt="about" />
 										</div>
 										<div class="single-slide-cast text-center">
 											5+
@@ -532,7 +521,7 @@
 						<div class="row hero-area-slide">
 							<div class="col-lg-6">
 								<div class="hero-area-content">
-									<img src="../jsp/image/slide1.png" alt="about" />
+									<img src="/WebService/jsp/image/slide1.png" alt="about" />
 								</div>
 							</div>
 							<div class="col-lg-6">
@@ -543,25 +532,25 @@
 									<h3>Cast:</h3>
 									<div class="slide-cast">
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast1.png" alt="about" />
+											<img src="/WebService/jsp/image/cast1.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast2.png" alt="about" />
+											<img src="/WebService/jsp/image/cast2.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast3.png" alt="about" />
+											<img src="/WebService/jsp/image/cast3.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast4.png" alt="about" />
+											<img src="/WebService/jsp/image/cast4.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast5.png" alt="about" />
+											<img src="/WebService/jsp/image/cast5.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast6.png" alt="about" />
+											<img src="/WebService/jsp/image/cast6.png" alt="about" />
 										</div>
 										<div class="single-slide-cast">
-											<img src="../jsp/image/cast7.png" alt="about" />
+											<img src="/WebService/jsp/image/cast7.png" alt="about" />
 										</div>
 										<div class="single-slide-cast text-center">
 											5+
@@ -606,7 +595,7 @@
                                                         <div class="col-md-4 col-sm-6 soon released">
 								<div class="single-portfolio">
 									<div class="single-portfolio-img">
-										<img src="../jsp/image/portfolio1.png" alt="portfolio" />
+										<img src="/WebService/jsp/image/portfolio1.png" alt="portfolio" />
 										<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 											<i class="icofont icofont-ui-play"></i>
 										</a>
@@ -624,7 +613,7 @@
 							<div class="col-md-4 col-sm-6 top">
 								<div class="single-portfolio">
 									<div class="single-portfolio-img">
-										<img src="../jsp/image/portfolio2.png" alt="portfolio" />
+										<img src="/WebService/jsp/image/portfolio2.png" alt="portfolio" />
 										<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 											<i class="icofont icofont-ui-play"></i>
 										</a>
@@ -638,7 +627,7 @@
 							<div class="col-md-4 col-sm-6 soon">
 								<div class="single-portfolio">
 									<div class="single-portfolio-img">
-										<img src="../jsp/image/portfolio3.png" alt="portfolio" />
+										<img src="/WebService/jsp/image/portfolio3.png" alt="portfolio" />
 										<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 											<i class="icofont icofont-ui-play"></i>
 										</a>
@@ -652,7 +641,7 @@
 							<div class="col-md-4 col-sm-6 top released">
 								<div class="single-portfolio">
 									<div class="single-portfolio-img">
-										<img src="../jsp/image/portfolio4.png" alt="portfolio" />
+										<img src="/WebService/jsp/image/portfolio4.png" alt="portfolio" />
 										<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 											<i class="icofont icofont-ui-play"></i>
 										</a>
@@ -666,7 +655,7 @@
 							<div class="col-md-4 col-sm-6 released">
 								<div class="single-portfolio">
 									<div class="single-portfolio-img">
-										<img src="../jsp/image/portfolio5.png" alt="portfolio" />
+										<img src="/WebService/jsp/image/portfolio5.png" alt="portfolio" />
 										<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 											<i class="icofont icofont-ui-play"></i>
 										</a>
@@ -680,7 +669,7 @@
 							<div class="col-md-4 col-sm-6 soon top">
 								<div class="single-portfolio">
 									<div class="single-portfolio-img">
-										<img src="../jsp/image/portfolio6.png" alt="portfolio" />
+										<img src="/WebService/jsp/image/portfolio6.png" alt="portfolio" />
 										<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 											<i class="icofont icofont-ui-play"></i>
 										</a>
@@ -695,10 +684,10 @@
 					</div>
 					<div class="col-lg-3 text-center text-lg-left">
 					    <div class="portfolio-sidebar">
-							<img src="../jsp/image/sidebar1.png" alt="sidebar" />
-							<img src="../jsp/image/sidebar2.png" alt="sidebar" />
-							<img src="../jsp/image/sidebar3.png" alt="sidebar" />
-							<img src="../jsp/image/sidebar4.png" alt="sidebar" />
+							<img src="/WebService/jsp/image/sidebar1.png" alt="sidebar" />
+							<img src="/WebService/jsp/image/sidebar2.png" alt="sidebar" />
+							<img src="/WebService/jsp/image/sidebar3.png" alt="sidebar" />
+							<img src="/WebService/jsp/image/sidebar4.png" alt="sidebar" />
 						</div>
 					</div>
 				</div>
@@ -718,7 +707,7 @@
 				<div class="row">
                     <div class="col-md-9">
 						<div class="video-area">
-							<img src="../jsp/image/video1.png" alt="video" />
+							<img src="/WebService/jsp/image/video1.png" alt="video" />
 							<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 								<i class="icofont icofont-ui-play"></i>
 							</a>
@@ -732,7 +721,7 @@
 						<div class="row">
 							<div class="col-md-12 col-sm-6">
 								<div class="video-area">
-									<img src="../jsp/image/video2.png" alt="video" />
+									<img src="/WebService/jsp/image/video2.png" alt="video" />
 									<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 										<i class="icofont icofont-ui-play"></i>
 									</a>
@@ -740,7 +729,7 @@
 							</div>
 							<div class="col-md-12 col-sm-6">
 								<div class="video-area">
-									<img src="../jsp/image/video3.png" alt="video" />
+									<img src="/WebService/jsp/image/video3.png" alt="video" />
 									<a href="https://www.youtube.com/watch?v=RZXnugbhw_4" class="popup-youtube">
 										<i class="icofont icofont-ui-play"></i>
 									</a>
@@ -840,7 +829,7 @@
 				<div class="row">
                     <div class="col-lg-3 col-sm-6">
 						<div class="widget">
-							<img src="../jsp/image/logo.png" alt="about" />
+							<img src="/WebService/jsp/image/logo.png" alt="about" />
 							<p>7th Harley Place, London W1G 8LZ United Kingdom</p>
 							<h6><span>Call us: </span>(+880) 111 222 3456</h6>
 						</div>
@@ -871,7 +860,7 @@
 							<h4>Newsletter</h4>
 							<p>Subscribe to our newsletter system now to get latest news from us.</p>
 							<form action="#">
-								<input type="text" placeholder="Enter your email.."/>
+								<input type="text" placeholder="Enter your email/WebService"/>
 								<button>SUBSCRIBE NOW</button>
 							</form>
 						</div>
@@ -900,18 +889,18 @@
 		</footer>
 		<!-- footer section end -->
 		<!-- jquery main JS -->
-		<script src="../jsp/js/jquery.min.js"></script>
+		<script src="/WebService/jsp/js/jquery.min.js"></script>
 		<!-- Bootstrap JS -->
-		<script src="../jsp/js/bootstrap.min.js"></script>
+		<script src="/WebService/jsp/js/bootstrap.min.js"></script>
 		<!-- Slick nav JS -->
-		<script src="../jsp/js/jquery.slicknav.min.js"></script>
+		<script src="/WebService/jsp/js/jquery.slicknav.min.js"></script>
 		<!-- owl carousel JS -->
-		<script src="../jsp/js/owl.carousel.min.js"></script>
+		<script src="/WebService/jsp/js/owl.carousel.min.js"></script>
 		<!-- Popup JS -->
-		<script src="../jsp/js/jquery.magnific-popup.min.js"></script>
+		<script src="/WebService/jsp/js/jquery.magnific-popup.min.js"></script>
 		<!-- Isotope JS -->
-		<script src="../jsp/js/isotope.pkgd.min.js"></script>
+		<script src="/WebService/jsp/js/isotope.pkgd.min.js"></script>
 		<!-- main JS -->
-		<script src="../jsp/js/main.js"></script>
+		<script src="/WebService/jsp/js/main.js"></script>
 	</body>
 </html>

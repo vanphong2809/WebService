@@ -14,10 +14,10 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author MyPC
+ * @author Admin
  */
 public class ConnectionDB {
-
+    
     private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=MovieTicket";
     private static final String DRIVER = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     private static final String USER = "sa";
@@ -29,7 +29,7 @@ public class ConnectionDB {
             Class.forName(DRIVER);
         } catch (ClassNotFoundException e) {
             Logger.getLogger(ConnectionDB.class.getName()).log(Level.SEVERE, null, e);
-        }
+}
         try {
             conn = DriverManager.getConnection(URL, USER, PASS);
         } catch (SQLException ex) {
