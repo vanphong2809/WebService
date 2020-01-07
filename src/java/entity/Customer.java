@@ -14,6 +14,7 @@ public class Customer {
     private String phoneNumber;
     private String email;
     private String address;
+    private String password;
     private Set<BankCard> bankCards = new HashSet<BankCard>(0);
 
     public Customer() {
@@ -23,12 +24,13 @@ public class Customer {
         this.customerId = customerId;
     }
 
-    public Customer(String customerId, String customerName, String phoneNumber, String email, String address, Set<BankCard> bankCards) {
+    public Customer(String customerId, String customerName, String phoneNumber, String email, String address,String password, Set<BankCard> bankCards) {
         this.customerId = customerId;
         this.customerName = customerName;
         this.phoneNumber = phoneNumber;
         this.email = email;
         this.address = address;
+        this.password = password;
         this.bankCards = bankCards;
     }
 
@@ -72,6 +74,14 @@ public class Customer {
         this.address = address;
     }
 
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+    
     public Set<BankCard> getBankCards() {
         return this.bankCards;
     }

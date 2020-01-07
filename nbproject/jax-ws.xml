@@ -4,6 +4,9 @@
     <service name="WSMovie">
       <implementation-class>ws.WSMovie</implementation-class>
     </service>
+    <service name="WSCustomer">
+      <implementation-class>ws.WSCustomer</implementation-class>
+    </service>
   </services>
   <clients/>
 </jax-ws>

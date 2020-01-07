@@ -2,6 +2,9 @@ package entity;
 // Generated Nov 3, 2019 4:24:27 PM by Hibernate Tools 4.3.1
 
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
@@ -14,6 +17,9 @@ public class Dayss {
 
      private String dayId;
      private Date dayss;
+     private String year;
+     private String month;
+     private String day;
      private Set<Ticket> tickets = new HashSet<Ticket>(0);
 
     public Dayss() {
@@ -51,8 +57,38 @@ public class Dayss {
         this.tickets = tickets;
     }
 
+    public String getYear() {
+        return year;
+    }
+
+    public void setYear(String year) {
+        this.year = year;
+    }
+
+    public String getMonth() {
+        return month;
+    }
+
+    public void setMonth(String month) {
+        this.month = month;
+    }
+
+    public String getDay() {
+        return day;
+    }
+
+    public void setDay(String day) {
+        this.day = day;
+    }
 
 
+    public void formatDate(Date date){
+        DateFormat dateFormat=new SimpleDateFormat("yyyy-MM-dd hh-mm-ss");
+        String strDate=dateFormat.format(date);
+        year=strDate.substring(0, 4);
+        month=strDate.substring(5, 7);
+        day=strDate.substring(8, 10);
+    }
 
 }
 
